@@ -2,7 +2,7 @@
 
 ## Overview
 
-### The purpose of the Project
+### The Purpose of the Project
 
 - The purpose of the project is to analyze stock market performance over the last few years for Steve to help his parents make sound investment decisions.
 - Another objective is to refactor VBA code and measure performance of the refactored code through runtimes.
