@@ -16,9 +16,14 @@
 - The workbook containing the above VBA code and showing the stock performance for the selected year is in the .xlsm file [VBA_challenge.xlsm](https://github.com/manasidek/stock_analysis/blob/main/VBA_Challenge.xlsm)
 
 ### Stock performance and execution time for 2017
+ [Stock Performance 2017]()
+ 
+ [Execution Time 2017]()
 
 ### Stock performance and execution time for 2018
-
+  [Stock Performance 2018]()
+  
+  [Execution Time 2018]()
 
 ## Summary
 
