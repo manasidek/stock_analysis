@@ -11,9 +11,9 @@
 
 ### VBA Code and Workbook
 
-- The VBA Code to analyze stock performance and runtime for the year entered by the user can be found in the link below 
+- The VBA Code to analyze stock performance and runtime for the year entered by the user can be found in the link [VBA_challenge.vbs]()
 
-- The workbook containing the above VBA code and showing the stock performance for the selected year is in the .xlsm file below
+- The workbook containing the above VBA code and showing the stock performance for the selected year is in the .xlsm file [VBA_challenge.xlsm]()
 
 ### Stock performance and execution time for 2017
 
