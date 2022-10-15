@@ -34,6 +34,8 @@
 - If refactoring is not done properly then it may introduce new bugs and errors into the code.
 - Refactoring can be time comsuming if the code is long and complicated.
 
-### Pros of refactoring VBA script
-- If more stocks are introduced in the dataset, it will require only a minor change in the code to include those additional stocks in the 'tickers' array.
-- The refactored code will run perfectly well for other years as well without affecting the performance significatly.
+### Pros of the refactored VBA script
+- The refactored code will run perfectly well for other years as well without affecting the performance significatly for the same stocks.
+
+### Cons of the recatored VBA script
+- If more stocks are introduced in the dataset, it will require only a change in the code to include those additional stocks in the 'tickers' array.
