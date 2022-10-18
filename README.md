@@ -11,19 +11,22 @@
 
 ### VBA Code and Workbook
 
-- The VBA Code to analyze stock performance and runtime for the year entered by the user can be found in the link [VBA_challenge.vbs](https://github.com/manasidek/stock_analysis/blob/main/VBA_challenge.vbs)
+- The VBA Code and workbook **before refactoring** to analyze stock performance and runtime for the year entered by the user can be found in the links [VBA_challenge - Before Refactoring.vbs]()
+[VBA_challenge - Before Refactoring.xlsm]()
 
-- The workbook containing the above VBA code and showing the stock performance for the selected year is in the .xlsm file [VBA_challenge.xlsm](https://github.com/manasidek/stock_analysis/blob/main/VBA_Challenge.xlsm)
+- The VBA Code and workbook **after refactoring** to analyze stock performance and runtime for the year entered by the user can be found in the links [VBA_challenge.vbs]()
+[VBA_challenge.xlsm]()
 
-### Stock performance and execution time for 2017
- ![Stock Performance 2017](https://github.com/manasidek/stock_analysis/blob/main/Resources/All%20Stocks%202017.png)
+
+### Stock performance and execution time before refactoring for 2018
+ ![Stock Performance 2018]()
  
- ![Execution Time 2017](https://github.com/manasidek/stock_analysis/blob/main/Resources/VBA_Challenge_2017.png)
+ ![Execution Time 2018]()
 
-### Stock performance and execution time for 2018
-  ![Stock Performance 2018](https://github.com/manasidek/stock_analysis/blob/main/Resources/All%20Stocks%202018.png)
+### Stock performance and execution time after refactoring for 2018
+  ![Stock Performance 2018]()
   
-  ![Execution Time 2018](https://github.com/manasidek/stock_analysis/blob/main/Resources/VBA_Challenge_2018.png)
+  ![Execution Time 2018]()
 
 ## Summary
 
@@ -35,6 +38,7 @@
 - Refactoring can be time consuming if the code is long and complicated.
 
 ### Pros of the refactored VBA script
+- The refactored code showed an improvement in runtime (from 0.8s to 0.1s) for the year 2018 while providing the same results as the original code.
 - The refactored code will run perfectly well if other years are added to the dataset for the same stocks, without affecting the performance significantly.
 
 ### Cons of the refactored VBA script
