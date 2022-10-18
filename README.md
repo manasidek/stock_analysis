@@ -11,11 +11,11 @@
 
 ### VBA Code and Workbook
 
-- The VBA Code and workbook **before refactoring** to analyze stock performance and runtime for the year entered by the user can be found in the links [VBA_challenge - Before Refactoring.vbs]()
-[VBA_challenge - Before Refactoring.xlsm]()
+- The VBA Code and workbook **before refactoring** to analyze stock performance and runtime for the year entered by the user can be found in the links [VBA_challenge - Before Refactoring.vbs](https://github.com/manasidek/stock_analysis/blob/main/VBA_challenge%20-%20Before%20Refactoring.vbs)
+[VBA_challenge - Before Refactoring.xlsm](https://github.com/manasidek/stock_analysis/blob/main/VBA_Challenge%20-%20Before%20Refactoring.xlsm)
 
-- The VBA Code and workbook **after refactoring** to analyze stock performance and runtime for the year entered by the user can be found in the links [VBA_challenge.vbs]()
-[VBA_challenge.xlsm]()
+- The VBA Code and workbook **after refactoring** to analyze stock performance and runtime for the year entered by the user can be found in the links [VBA_challenge.vbs](https://github.com/manasidek/stock_analysis/blob/main/VBA_challenge.vbs)
+[VBA_challenge.xlsm](https://github.com/manasidek/stock_analysis/blob/main/VBA_Challenge.xlsm)
 
 
 ### Stock performance and execution time before refactoring for 2018
