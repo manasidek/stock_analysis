@@ -25,14 +25,14 @@
 
 
 ### Stock performance and execution time before refactoring for 2018
- ![Stock Performance 2018]()
+ ![Stock Performance 2018](https://github.com/manasidek/stock_analysis/blob/main/Resources/All%20Stocks%202018%20-%20Before%20Refactoring.png)
  
- ![Execution Time 2018]()
+ ![Execution Time 2018](https://github.com/manasidek/stock_analysis/blob/main/Resources/VBA_Challenge_2018%20-%20Before%20Refactoring.png)
 
 ### Stock performance and execution time after refactoring for 2018
-  ![Stock Performance 2018]()
+  ![Stock Performance 2018](https://github.com/manasidek/stock_analysis/blob/main/Resources/All%20Stocks%202018.png)
   
-  ![Execution Time 2018]()
+  ![Execution Time 2018](https://github.com/manasidek/stock_analysis/blob/main/Resources/VBA_challenge_2018.png)
 
 ## Summary
 
